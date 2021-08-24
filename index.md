@@ -18,3 +18,5 @@ https://www.thinkful.com/learn/javascript-best-practices-1/#Use-Shortcut-Notatio
 10) Use template literals
 
 Source: https://code.tutsplus.com/tutorials/24-javascript-best-practices-for-beginners--net-5399
+
+//Finalize
